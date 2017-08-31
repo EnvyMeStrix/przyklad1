@@ -1,0 +1,2 @@
+# przyklad1
+Sztitmann
